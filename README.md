@@ -7,4 +7,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ##
 
-- [Link do projeto](https://murilonp.github.io/exercicio-form-html-css/)
+- [Link do projeto](https://murilonp.github.io/exercicio-form/)
